@@ -1,1 +1,5 @@
 /index.php / 301
+/crash-casino-game-gb/* /crash-casino-game-uk-gb/:splat 301
+/crash-casino-gb/* /crash-casino-game-uk-gb/:splat 301
+/united-kingdom-gb/* /crash-casino-game-uk-gb/:splat 301
+/en-GB/* /crash-casino-game-uk-gb/:splat 301
